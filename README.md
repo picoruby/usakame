@@ -1,3 +1,5 @@
+![](banner.png)
+
 # Rapicco - Collaborative Pixel Art Project
 
 Welcome to Rapicco, a collaborative pixel art project where contributors can help improve and create beautiful ASCII-style pixel art! 🎨
