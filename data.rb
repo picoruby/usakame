@@ -1,13 +1,15 @@
 # Fill in the blank with your name
-$author = "" # Your name
+$author = "ydah" # Your name
 
 # You can modify and add colors here
 $palette = {
   'w' => 231,
+  'k' => 236,
+  'c' => 131,
   'p' => 217,
   'b' => 232,
   'g' => 34,
-  'y' => 178,
+  'y' => 226,
   'd' => 22,
   'r' => 196,
 }
@@ -15,42 +17,48 @@ $palette = {
 # Rapiko's height should be <= 15
 # Rapiko's fur color should be white
 $rapiko = %w[
-  ......www..ww
-  ......wpw..wp
-  ....wwwpwwwwpw
-  ...wwwwwwwwwwww
-  ...wwwwwbwwwwbw
-  ....wwwwwwwbwww
-  .....wwwwwwwww
-  .....pppppppppp
-  ....ppwwppppppww
-  ...wpppppppppp
-  .....www....www
+............kkkkkkkkkk
+............kkwwwwkkwwkk
+....kkkkkk..kkwwwwkkwwkk
+..kkwwwwrrkkwwwwwwkkwwwwkk
+kkrrrrrrrrrrkkwwwwwwwwwwwwkk
+..kkrrrrrrkkkkwwwwwwwwwwwwkk
+....kkrrcckkwwwwwwwwwwkkwwwwkk
+......kkkkccwwwwwwrrwwwwwwwwkk
+....kkwwkkwwccwwwwwwwwwwwwkk
+..kkwwwwkkwwwwwwwwwwwwkkwwkk
+....kkwwkkwwwwwwwwwwkkkkwwkk
+......kkkkkkwwwwwwwwwwwwwwkk
+............kkkkwwwwwwkkkk
+................kkkkkk
 ]
 
 # Camerlengo's height should be equal to Rapiko
 $camerlengo = %w[
-  .
-  .
-  .
-  .
-  .............yyyyy
-  ............yyyddyy
-  ....ggggggggyyyyyyy
-  ...ggggggggggyyyyy
-  ..gggggggggggg
-  yygggggggggggg
-  ...yyy......yyy
+  ....kkkkkkkkkk
+  ..kkwwwwrrrrrrkk......kkkkkk
+  kkrrrrrrrrrrrrrrkk..kkyyyyyykk
+  ..kkrrrrrrrrrrkkkkkkkkyyyyyyyykk
+  ....kkrrrrrrkkggggkkkkyyyyyyyyyykk
+  ....kkkkrrccggggggkkyyyyyyyyyyyykk
+  ....kkggkkggccggkkkkyyyykkkkkkyykk
+  ....kkggggkkkkccyyyyyyyyyyrrwwrryykk
+  ....kkggkkkkyyyyyykkyyyyyyyyrrrryykk
+  ......kkkkkkyyyyyyyyyykkyyyyyyyyyykk
+  ....kkyyyyyyyykkyyyyyykkkkyyyyyykkkk
+  ....kkyyyyyyyyyykkyyyyyykkkkkkkk
+  ......kkyyyyyykkkkkkyyyyyykk
+  ........kkkkkkkkkk..kkkkkkkk
 ]
 
 # Bullet should be Ruby
 $bullet = %w[
-  .
-  .
-  ......rrrrrr
-  ....rrrrrrrrrr
-  ..rrrrrrrrrrrrrr..
-  ....rrrrrrrrrr
-  ......rrrrrr
-  ........rr
-]
+  ........kkkkkk
+  ......kkrrrrrrkk
+  ....kkrwwwwrrrrrkk
+  ..kkrrrrrrrrrrrrrrkk
+  ....kkrrrrrrrrrrkk
+  ......kkrrrrrrkk
+  ........kkrrkk
+  ..........kk
+  ]
