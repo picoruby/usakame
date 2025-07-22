@@ -17,48 +17,48 @@ $palette = {
 # Rapiko's height should be <= 15
 # Rapiko's fur color should be white
 $rapiko = %w[
-  .......kkkkkk
-  .......kwwwkwk
-  ..kkkkkkwwwwkwk
-  .krrrrrkwwwwwkwwk
-  krwwwrrrkwwwwwwwk
-  .krrrrrkkwwwwwwwwk
-  ..krrrckwwwwwwwkwwk
-  ...krkcwwwwwrwwwwk
-  ..kwkkwcwwwwwwwwk
-  .kwwwkwwwwwwwwkwk
-  ..kwwkwwwwwwkkkwk
-  ...kkkwwwwwwwwwk
-  ......kkwwwwwkk
-  ........kkkk
+............kkkkkkkkkk
+............kkwwwwkkwwkk
+....kkkkkk..kkwwwwkkwwkk
+..kkwwwwrrkkwwwwwwkkwwwwkk
+kkrrrrrrrrrrkkwwwwwwwwwwwwkk
+..kkrrrrrrkkkkwwwwwwwwwwwwkk
+....kkrrcckkwwwwwwwwwwkkwwwwkk
+......kkkkccwwwwwwrrwwwwwwwwkk
+....kkwwkkwwccwwwwwwwwwwwwkk
+..kkwwwwkkwwwwwwwwwwwwkkwwkk
+....kkwwkkwwwwwwwwwwkkkkwwkk
+......kkkkkkwwwwwwwwwwwwwwkk
+............kkkkwwwwwwkkkk
+................kkkkkk
 ]
 
 # Camerlengo's height should be equal to Rapiko
 $camerlengo = %w[
-  ...kkkkk
-  ..krrrrrk.....kkk
-  .krwwwrrrk...kyyyyk
-  krrrrrrrrrkkkyyyyyk
-  ..krrrrrkggkkyyyyyyk
-  ..kkrrckgggkyyyyyyyyk
-  ..kgkrcgggkkyykkkyyyk
-  ..kggkgckyyyyyyrwryyk
-  ..kgggkycykyyyyyrryyk
-  ...kkkkyyyyyykyyyyyyk
-  ..kyyyyykyyyykkyyykk
-  ..kyyyyyykyyyykkkk
-  ...kyyyykkkyykk
-  ....kkkkkk.kkkk
+  ....kkkkkkkkkk
+  ..kkwwwwrrrrrrkk......kkkkkk
+  kkrrrrrrrrrrrrrrkk..kkyyyyyykk
+  ..kkrrrrrrrrrrkkkkkkkkyyyyyyyykk
+  ....kkrrrrrrkkggggkkkkyyyyyyyyyykk
+  ....kkkkrrccggggggkkyyyyyyyyyyyykk
+  ....kkggkkggccggkkkkyyyykkkkkkyykk
+  ....kkggggkkkkccyyyyyyyyyyrrwwrryykk
+  ....kkggkkkkyyyyyykkyyyyyyyyrrrryykk
+  ......kkkkkkyyyyyyyyyykkyyyyyyyyyykk
+  ....kkyyyyyyyykkyyyyyykkkkyyyyyykkkk
+  ....kkyyyyyyyyyykkyyyyyykkkkkkkk
+  ......kkyyyyyykkkkkkyyyyyykk
+  ........kkkkkkkkkk..kkkkkkkk
 ]
 
 # Bullet should be Ruby
 $bullet = %w[
-  .......kkkkkk
-  ......krrrrrrk
-  ....krwwwrrrrrrk
-  ..krrrrrrrrrrrrrrk..
-  ....krrrrrrrrrrk
-  ......krrrrrrk
-  ........krrk
-  .........kk
+  ........kkkkkk
+  ......kkrrrrrrkk
+  ....kkrwwwwrrrrrkk
+  ..kkrrrrrrrrrrrrrrkk
+  ....kkrrrrrrrrrrkk
+  ......kkrrrrrrkk
+  ........kkrrkk
+  ..........kk
   ]
