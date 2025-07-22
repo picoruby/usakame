@@ -1,5 +1,3 @@
-![](banner.png)
-
 # Rapicco - Collaborative Pixel Art Project
 
 Welcome to Rapicco, a collaborative pixel art project where contributors can help improve and create beautiful ASCII-style pixel art! 🎨
@@ -12,6 +10,13 @@ This project renders pixel art characters in your terminal using Ruby. Currently
 - **Rapiko** - A cute white rabbit
 - **Camerlengo** - A colorful companion
 - **Bullet** - A red projectile
+
+## Rapicco???
+
+Rapicco is a [Rabbit](https://rabbit-shocker.org/index.html.en)-like presentation tool that runs on PicoRuby.
+Rapiko steps along with the current slide page number while Camerlengo walks constantly to show the remaining time of your presentation.
+
+![](banner.png)
 
 ## Getting Started
 
@@ -51,6 +56,10 @@ The program will:
    - Rapiko's height should be up to 15 lines
    - Rapiko's fur should be white
    - Camerlengo's height should equal Rapiko's height
+
+### Caveat
+- One pixel is NOT square because it is a half-width character
+- Two adjacent pixels compose a square, but it wouldn't be a precise square depending on the font. So take it easy :)
 
 ### Example Color Codes
 - `231` = White
