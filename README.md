@@ -112,4 +112,6 @@ Happy pixel painting! 🎨✨
 
 ## License
 
+Your contributions will be published under the MIT License.
+
 See [LICENSE](LICENSE)
