@@ -8,6 +8,8 @@ $palette = {
   'y' => 178,
   'd' => 22,
   'r' => 196,
+  'l' => 252,
+  'v' => 124,
 }
 
 # Rapiko's height should be <= 15
@@ -15,9 +17,9 @@ $palette = {
 $rapiko = %w[
   .w.w
   .w.w
-  wrwrw
-  wwwww
+  .wwvw
   .www
+  wwlwl
 ]
 
 # Camerlengo's height should be equal to Rapiko
