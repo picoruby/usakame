@@ -1,5 +1,5 @@
 # Fill in the blank with your name
-$author = "" # Your name
+$author = "ogom" # Your name
 
 # You can modify and add colors here
 $palette = {
@@ -7,25 +7,32 @@ $palette = {
   'p' => 217,
   'b' => 232,
   'g' => 34,
-  'y' => 178,
+  'y' => 11,
   'd' => 22,
   'r' => 196,
+  's' => 255,
+  'l' => 42,
+  'k' => 3,
 }
 
 # Rapiko's height should be <= 15
 # Rapiko's fur color should be white
 $rapiko = %w[
-  ......www..ww
-  ......wpw..wp
-  ....wwwpwwwwpw
-  ...wwwwwwwwwwww
-  ...wwwwwbwwwwbw
-  ....wwwwwwwbwww
-  .....wwwwwwwww
-  .....pppppppppp
-  ....ppwwppppppww
-  ...wpppppppppp
-  .....www....www
+  ..........ssss....ssss
+  ..........sswwss..sswwss
+  ..........sswwwwsssswwss
+  ............sswwsssswwss
+  ..............sssswwwwwwss
+  ............sswwwwwwwwwwwwss
+  ............sswwwwwwwwbbwwss
+  ............sswwwwwwbbbbwwss
+  ..ssss..sssssssswwppppwwss
+  sswwwwsswwwwwwwwsswwwwss
+  sswwwwsswwwwwwwwwwwwwwss
+  ..sssswwwwwwwwwwwwwwwwss
+  ....sswwwwwwwwwwwwwwwwssss
+  ..sswwwwwwwwsssswwwwwwwwss
+  ....ssssssss....ssssssssss
 ]
 
 # Camerlengo's height should be equal to Rapiko
@@ -34,23 +41,33 @@ $camerlengo = %w[
   .
   .
   .
-  .............yyyyy
-  ............yyyddyy
-  ....ggggggggyyyyyyy
-  ...ggggggggggyyyyy
-  ..gggggggggggg
-  yygggggggggggg
-  ...yyy......yyy
+  .
+  .
+  ......ggllggll
+  ....ggllggllggll..kkyyyyyy
+  ..ggllggllggllggllyyyyyyyyyy
+  ..llggllggllggllggyywwbbyyyy
+  llggllggllggllggllyybbbbyyyy
+  ..llggllggllggllyyppppyyyy
+  ....yyyyyyyyyyyyyyyykk
+  ..yyyyyykk..kkyyyy
+  ..yyyykk......yyyyyy
 ]
 
 # Bullet should be Ruby
 $bullet = %w[
   .
   .
-  ......rrrrrr
-  ....rrrrrrrrrr
-  ..rrrrrrrrrrrrrr..
-  ....rrrrrrrrrr
-  ......rrrrrr
-  ........rr
+  .
+  .
+  .
+  .
+  .
+  ......rrpprrpprr
+  ....rrwwrrpprrpprr
+  ..rrpprrpprrpprrpprr
+  ....rrpprrpprrpprr
+  ......rrpprrpprr
+  ........rrpprr
+  ..........rr
 ]
