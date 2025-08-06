@@ -54,6 +54,7 @@ The program will:
 
 3. **Character Constraints**:
    - Rapiko's height should be up to 15 lines
+      - *UPDATE:* As of August 2025, *8 LINES* of Sprites Are Wanted!!! 
    - Rapiko's fur should be white
    - Camerlengo's height should equal Rapiko's height
 
